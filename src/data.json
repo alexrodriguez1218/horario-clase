@@ -1,0 +1,104 @@
+{
+  "matter": [
+    {
+      "id": 1,
+      "name": "Matematicas",
+      "teacher": "Lenly ",
+      "color": "#c51212",
+      "idConnection": "234224342",
+      "pwdConnection": "primeroA",
+      "linkConnection": "https://us04web.zoom.us/j/72710040795?pwd=NExqWGN2dk5qNkpIbFVKVVhtWTdwZz09"
+    },
+    {
+      "id": 2,
+      "name": "Español",
+      "teacher": "Nicol",
+      "color": "#ffeb3b",
+      "idConnection": "234224342",
+      "pwdConnection": "primeroA",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 3,
+      "name": "Sociales",
+      "teacher": "Mauricio ",
+      "color": "#146eb5",
+      "idConnection": "234224342",
+      "pwdConnection": "primeroA",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 4,
+      "name": "Etica",
+      "teacher": "Lenly ",
+      "color": "#f4511e",
+      "idConnection": "234224342",
+      "pwdConnection": "primeroA",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 5,
+      "name": "Ciencias",
+      "teacher": "Nicolle ",
+      "color": "#09961e",
+      "idConnection": "234224342",
+      "pwdConnection": "primeroA",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 6,
+      "name": "Ingles",
+      "teacher": "Farley",
+      "color": "#673AB7",
+      "idConnection": "234224342",
+      "pwdConnection": "primeroA",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 7,
+      "name": "Artistica",
+      "teacher": "Nicol",
+      "color": "#d338e0",
+      "idConnection": "234224342",
+      "pwdConnection": "primeroA",
+      "linkConnection": "ayudacreativa.com"
+    }
+  ],
+  "Classes": {
+    "1": [
+      {
+        "matterId": 2,
+        "hours": 8,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 6,
+        "hours": 9,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 7,
+        "hours": 10,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 1,
+        "hours": 11,
+        "minutes": 0,
+        "jornada": "am"
+      }
+    ]
+  },
+  "week": [
+    "Domingo",
+    "Lunes",
+    "Martes",
+    "Miércoles",
+    "Jueves",
+    "Viernes",
+    "Sábado"
+  ]
+}
