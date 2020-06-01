@@ -5,7 +5,7 @@ function getNextClass(classes=[], nowDate) {
     const minute = nowDate.getMinutes()
     let  nextMatter = null
 
-    const nowActivity = classes.filter(c => c.hours === hour && minute <= 45 )[0] || null
+    const nowActivity = classes.filter(c => c.hours === hour && minute <= 42 )[0] || null
     if (!nowActivity ) {        
         // valido si tengo proxima clase
         nextMatter = classes.filter(c => c.hours > hour )[0] || null

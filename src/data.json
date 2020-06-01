@@ -3,34 +3,35 @@
     {
       "id": 1,
       "name": "Matematicas",
-      "teacher": "Lenly ",
+      "teacher": "Lenly Dallanna Sanabria Velasquez",
       "color": "#c51212",
-      "idConnection": "234224342",
-      "pwdConnection": "primeroA",
+      "idConnection": "72710040795",
+      "pwdConnection": "5sS7xL",
       "linkConnection": "https://us04web.zoom.us/j/72710040795?pwd=NExqWGN2dk5qNkpIbFVKVVhtWTdwZz09"
+      
     },
     {
       "id": 2,
       "name": "Español",
-      "teacher": "Nicol",
+      "teacher": "Nicole Stephanie Romero Trillos",
       "color": "#ffeb3b",
-      "idConnection": "234224342",
-      "pwdConnection": "primeroA",
+      "idConnection": "720 8829 9038",
+      "pwdConnection": "primeroa",
       "linkConnection": "ayudacreativa.com"
     },
     {
       "id": 3,
       "name": "Sociales",
-      "teacher": "Mauricio ",
+      "teacher": "Mauricio Herrera Serrano",
       "color": "#146eb5",
-      "idConnection": "234224342",
-      "pwdConnection": "primeroA",
+      "idConnection": "5759898449",
+      "pwdConnection": "3CnSMu",
       "linkConnection": "ayudacreativa.com"
     },
     {
       "id": 4,
       "name": "Etica",
-      "teacher": "Lenly ",
+      "teacher": "Lenly Dallanna Sanabria Velasquez",
       "color": "#f4511e",
       "idConnection": "234224342",
       "pwdConnection": "primeroA",
@@ -39,7 +40,7 @@
     {
       "id": 5,
       "name": "Ciencias",
-      "teacher": "Nicolle ",
+      "teacher": "Nicole Stephanie Romero Trillos",
       "color": "#09961e",
       "idConnection": "234224342",
       "pwdConnection": "primeroA",
@@ -48,19 +49,73 @@
     {
       "id": 6,
       "name": "Ingles",
-      "teacher": "Farley",
+      "teacher": "Farley Yurani Hurtado Muñoz",
       "color": "#673AB7",
-      "idConnection": "234224342",
-      "pwdConnection": "primeroA",
+      "idConnection": "78226850654",
+      "pwdConnection": "8cy1TY",
       "linkConnection": "ayudacreativa.com"
     },
     {
       "id": 7,
       "name": "Artistica",
-      "teacher": "Nicol",
+      "teacher": "Nicole Stephanie Romero Trillos",
       "color": "#d338e0",
-      "idConnection": "234224342",
-      "pwdConnection": "primeroA",
+      "idConnection": "75665076895",
+      "pwdConnection": "primeroa",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 8,
+      "name": "Actividad deportiva familiar",
+      "teacher": "Nicole Stephanie Romero Trillos",
+      "color": "#d338e0",
+      "idConnection": "8175860833",
+      "pwdConnection": "0byEST",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 9,
+      "name": "Tecnología",
+      "teacher": "Lenly Dallanna Sanabria Velasquez",
+      "color": "#d338e0",
+      "idConnection": "78544259859",
+      "pwdConnection": "2M6TMw",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 10,
+      "name": "Música",
+      "teacher": "Andres Fabian Riveros Villabona",
+      "color": "#d338e0",
+      "idConnection": "72088299038",
+      "pwdConnection": "primeroa",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 11,
+      "name": "Ed. Fisica",
+      "teacher": "Lenly Dallanna Sanabria Velasquez",
+      "color": "#d338e0",
+      "idConnection": "74874608532",
+      "pwdConnection": "9andah",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 12,
+      "name": "Dir. grupo",
+      "teacher": "Nicole Stephanie Romero Trillos",
+      "color": "#d338e0",
+      "idConnection": " 75665076895",
+      "pwdConnection": "primeroa",
+      "linkConnection": "ayudacreativa.com"
+    },
+    {
+      "id": 13,
+      "name": "Religión",
+      "teacher": "Hna Diana María Maldonado",
+      "color": "#d338e0",
+      "idConnection": " 75665076895",
+      "pwdConnection": "primeroa",
       "linkConnection": "ayudacreativa.com"
     }
   ],
@@ -86,6 +141,92 @@
       },
       {
         "matterId": 1,
+        "hours": 11,
+        "minutes": 0,
+        "jornada": "am"
+      }
+    ],
+    "2": [
+      {
+        "matterId": 3,
+        "hours": 8,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 1,
+        "hours": 9,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 9,
+        "hours": 10,
+        "minutes": 0,
+        "jornada": "am"
+      }
+    ],
+    "3": [
+      {
+        "matterId": 5,
+        "hours": 8,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 10,
+        "hours": 9,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 3,
+        "hours": 11,
+        "minutes": 0,
+        "jornada": "am"
+      }
+    ],
+    "4": [
+      {
+        "matterId": 5,
+        "hours": 8,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 10,
+        "hours": 9,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 3,
+        "hours": 10,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 13,
+        "hours": 11,
+        "minutes": 0,
+        "jornada": "am"
+      }
+    ],
+    "5": [
+      {
+        "matterId": 6,
+        "hours": 8,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 5,
+        "hours": 9,
+        "minutes": 0,
+        "jornada": "am"
+      },
+      {
+        "matterId": 4,
         "hours": 11,
         "minutes": 0,
         "jornada": "am"

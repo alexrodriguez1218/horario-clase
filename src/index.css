@@ -164,6 +164,10 @@ h1, h2, h3, h4 {
     background-color:#00000029;
 }
 
+.Panel-Horario__Container .List-card .card h3{
+  font-size: .8em;
+}
+
 .Panel-Horario__Container .List-card .card.disabled{
   opacity: .5;
   cursor: none;
