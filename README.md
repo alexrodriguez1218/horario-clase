@@ -1,4 +1,6 @@
 ## Horario de clase
+![alt text](https://repository-images.githubusercontent.com/268626006/a01c1c80-a42a-11ea-9a37-bad751208d46)
+
 
 Este proyecto es una demostracion de amor y compromiso con mi hijo, en esta pandemia el tiene clases virtuales, y quedo en evidencia que nadie estaba preparado para este nuevo proceso sin embargo es importante evolucionar y continuar adelante, con este proyecto pretendo responsabilizarlo como estudiante y que el tenga el control de como acceder a las clases (Con esto no lo descuidare, seguire siempre garantizando su puntualidad y educacion).
 
