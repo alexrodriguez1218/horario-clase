@@ -19,4 +19,5 @@ Este proyecto es una demostracion de amor y compromiso con mi hijo, en esta pand
 
 ## API
 
-No hay API en esta primera version solo se habilito puntualmente el caso especifico para mi hijo, sin embargo espero escalar un poco mas este proyecto y poder beneficiar a otros niños que se motiven a sus clases.
+- No hay API en esta primera version solo se habilito puntualmente el caso especifico para mi hijo, sin embargo espero escalar un poco mas este proyecto y poder beneficiar a otros niños que se motiven a sus clases.
+- No maneja base de datos y empleo el LocalStorange para recordar el nombre y genero del estudiante que se beneficiara de la herramienta.
