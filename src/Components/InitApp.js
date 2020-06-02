@@ -35,7 +35,7 @@ function InitApp({ open, handleName, handleGender }) {
         <div className='modal'>
             <form onSubmit={onSubmitForm}>
                 <img className='heroBienvenida' src={HeroBienvenida} alt='Imagen de bienvenida, consulta el nombre del estudiante y que es... niño o niña?' />
-                <input onChange={onChangeName} />
+                <input onChange={onChangeName} required />
                 <div className='gender'>
                     <img className='active' src={Boy} alt='Opcion de niño' onClick={(e)=>onClickImg(e, 'boy')} />
                     <img src={Girl} alt='Opcion de niña' onClick={(e)=>onClickImg(e, 'girl')} />

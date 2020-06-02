@@ -17,7 +17,7 @@
       "color": "#ffeb3b",
       "idConnection": "720 8829 9038",
       "pwdConnection": "primeroa",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "color": "#146eb5",
       "idConnection": "5759898449",
       "pwdConnection": "3CnSMu",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 4,
@@ -35,7 +35,7 @@
       "color": "#f4511e",
       "idConnection": "234224342",
       "pwdConnection": "primeroA",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 5,
@@ -44,7 +44,7 @@
       "color": "#09961e",
       "idConnection": "234224342",
       "pwdConnection": "primeroA",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 6,
@@ -53,7 +53,7 @@
       "color": "#673AB7",
       "idConnection": "78226850654",
       "pwdConnection": "8cy1TY",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "color": "#d338e0",
       "idConnection": "75665076895",
       "pwdConnection": "primeroa",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 8,
@@ -71,7 +71,7 @@
       "color": "#d338e0",
       "idConnection": "8175860833",
       "pwdConnection": "0byEST",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 9,
@@ -80,7 +80,7 @@
       "color": "#d338e0",
       "idConnection": "78544259859",
       "pwdConnection": "2M6TMw",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 10,
@@ -89,7 +89,7 @@
       "color": "#d338e0",
       "idConnection": "72088299038",
       "pwdConnection": "primeroa",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 11,
@@ -98,7 +98,7 @@
       "color": "#d338e0",
       "idConnection": "74874608532",
       "pwdConnection": "9andah",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 12,
@@ -107,7 +107,7 @@
       "color": "#d338e0",
       "idConnection": " 75665076895",
       "pwdConnection": "primeroa",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     },
     {
       "id": 13,
@@ -116,7 +116,7 @@
       "color": "#d338e0",
       "idConnection": " 75665076895",
       "pwdConnection": "primeroa",
-      "linkConnection": "ayudacreativa.com"
+      "linkConnection": "#"
     }
   ],
   "Classes": {
