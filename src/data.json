@@ -5,9 +5,9 @@
       "name": "Matematicas",
       "teacher": "Lenly Dallanna Sanabria Velasquez",
       "color": "#c51212",
-      "idConnection": "72710040795",
-      "pwdConnection": "5sS7xL",
-      "linkConnection": "https://us04web.zoom.us/j/72710040795?pwd=NExqWGN2dk5qNkpIbFVKVVhtWTdwZz09"
+      "idConnection": "77199110705",
+      "pwdConnection": "PrimeroA",
+      "linkConnection": "https://us04web.zoom.us/j/77199110705"
       
     },
     {
@@ -15,9 +15,9 @@
       "name": "Español",
       "teacher": "Nicole Stephanie Romero Trillos",
       "color": "#ffeb3b",
-      "idConnection": "720 8829 9038",
+      "idConnection": "72088299038",
       "pwdConnection": "primeroa",
-      "linkConnection": "#"
+      "linkConnection": "https://us04web.zoom.us/j/72088299038"
     },
     {
       "id": 3,
@@ -26,16 +26,16 @@
       "color": "#146eb5",
       "idConnection": "5759898449",
       "pwdConnection": "3CnSMu",
-      "linkConnection": "#"
+      "linkConnection": "https://us04web.zoom.us/j/5759898449"
     },
     {
       "id": 4,
       "name": "Etica",
       "teacher": "Lenly Dallanna Sanabria Velasquez",
       "color": "#f4511e",
-      "idConnection": "234224342",
-      "pwdConnection": "primeroA",
-      "linkConnection": "#"
+      "idConnection": "77199110705",
+      "pwdConnection": "PrimeroA",
+      "linkConnection": "https://us04web.zoom.us/j/77199110705"
     },
     {
       "id": 5,
@@ -44,7 +44,7 @@
       "color": "#09961e",
       "idConnection": "234224342",
       "pwdConnection": "primeroA",
-      "linkConnection": "#"
+      "linkConnection": "https://us04web.zoom.us/j/234224342"
     },
     {
       "id": 6,
@@ -53,7 +53,7 @@
       "color": "#673AB7",
       "idConnection": "78226850654",
       "pwdConnection": "8cy1TY",
-      "linkConnection": "#"
+      "linkConnection": "https://us04web.zoom.us/j/78226850654?pwd=QzV2MGpNdW0raWhKZ0Zxazc5THVKdz09"
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "color": "#d338e0",
       "idConnection": "75665076895",
       "pwdConnection": "primeroa",
-      "linkConnection": "#"
+      "linkConnection": "https://us04web.zoom.us/j/75665076895"
     },
     {
       "id": 8,
@@ -71,16 +71,16 @@
       "color": "#d338e0",
       "idConnection": "8175860833",
       "pwdConnection": "0byEST",
-      "linkConnection": "#"
+      "linkConnection": "https://us04web.zoom.us/j/8175860833"
     },
     {
       "id": 9,
       "name": "Tecnología",
       "teacher": "Lenly Dallanna Sanabria Velasquez",
       "color": "#d338e0",
-      "idConnection": "78544259859",
-      "pwdConnection": "2M6TMw",
-      "linkConnection": "#"
+      "idConnection": "77199110705",
+      "pwdConnection": "PrimeroA",
+      "linkConnection": "https://us04web.zoom.us/j/77199110705"
     },
     {
       "id": 10,
@@ -89,16 +89,16 @@
       "color": "#d338e0",
       "idConnection": "72088299038",
       "pwdConnection": "primeroa",
-      "linkConnection": "#"
+      "linkConnection": "https://us04web.zoom.us/j/72088299038"
     },
     {
       "id": 11,
       "name": "Ed. Fisica",
       "teacher": "Lenly Dallanna Sanabria Velasquez",
       "color": "#d338e0",
-      "idConnection": "74874608532",
-      "pwdConnection": "9andah",
-      "linkConnection": "#"
+      "idConnection": "77199110705",
+      "pwdConnection": "Primeroa",
+      "linkConnection": "https://us04web.zoom.us/j/77199110705"
     },
     {
       "id": 12,
@@ -107,16 +107,16 @@
       "color": "#d338e0",
       "idConnection": " 75665076895",
       "pwdConnection": "primeroa",
-      "linkConnection": "#"
+      "linkConnection": "https://us04web.zoom.us/j/75665076895"
     },
     {
       "id": 13,
       "name": "Religión",
       "teacher": "Hna Diana María Maldonado",
       "color": "#d338e0",
-      "idConnection": " 75665076895",
-      "pwdConnection": "primeroa",
-      "linkConnection": "#"
+      "idConnection": " 5571750506",
+      "pwdConnection": "DivinoA3",
+      "linkConnection": "https://us04web.zoom.us/j/5571750506?pwd=YklNcjdwWkptTjkvcUxOQmpHSzJmQT09"
     }
   ],
   "Classes": {

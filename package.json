@@ -2,7 +2,7 @@
   "name": "horario-clase",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://alexrodriguez1218.github.io/horario-clase/",
+  "homepage": "https://alexrodriguez1218.github.io/horario-clase/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 // import imagenes 
 import HeroBoy from "./img/Hero.png";
@@ -19,10 +19,18 @@ function App() {
   // init estado
   const [name, setName] = useState(window.localStorage.getItem('name') || null)
   const [gender, setGender] = useState(window.localStorage.getItem('gender') || null)
-  console.log(gender);
-  
+  const [data, setData] = useState(Data())
   //obtendo datos
-  const data = Data()
+
+    setTimeout(() => {
+        console.log('hola');
+        
+    console.log(data);
+      }, 100)
+  // useEffect(() => {
+    
+  //  }, [data])
+  
   const {nowDay, nowClasses, nextClases} = data
   const heroImg = gender === 'girl' ? HeroGirl : HeroBoy
   
