@@ -26,7 +26,7 @@
       "color": "#146eb5",
       "idConnection": "5759898449",
       "pwdConnection": "3CnSMu",
-      "linkConnection": "https://us04web.zoom.us/j/5759898449"
+      "linkConnection": "https://us04web.zoom.us/j/5759898449?pwd=T1pJQmRnd2hGZU42aElmS053NUNtQT09"
     },
     {
       "id": 4,
@@ -181,7 +181,7 @@
       },
       {
         "matterId": 3,
-        "hours": 19,
+        "hours": 10,
         "minutes": 0,
         "jornada": "am"
       }

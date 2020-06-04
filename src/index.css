@@ -24,8 +24,8 @@ h1, h2, h3, h4 {
 
 .Panel-info .ResetApp {
   position: absolute;
-  bottom: 10px;
-  left: 10px;
+  top: 10px;
+  right: 10px;
   border: none;
   display: flex;
   align-items: center;
@@ -72,7 +72,7 @@ h1, h2, h3, h4 {
     background: transparent;
     margin-bottom: 5px;
     border: none;
-    font-size: 25px;
+    font-size: 1.56rem;
     font-weight: 400;
     cursor: pointer;
     outline: none;
@@ -81,7 +81,7 @@ h1, h2, h3, h4 {
 
 .Panel-info__item .buttons a span{
   font-weight: 900;
-  font-size: 35px;
+  font-size: 2.18rem;
 }
 
 .Panel-info__item .Label {
@@ -103,7 +103,7 @@ h1, h2, h3, h4 {
 .Panel-info__item .Label p {
     color: #707070;
     margin-bottom: 10px;
-    font-size: 20px;
+    font-size: 1.25em;
     font-weight: 400;
 }
 
@@ -113,11 +113,11 @@ h1, h2, h3, h4 {
 
 .Panel-info__item .Label p span{
   font-weight: 900;
-  font-size: 30px;
+  font-size: 1.87em;
 }
 
 .Panel-info__item .Label p span.day{
-  font-size: 28px;
+  font-size: 1.75rem;
 }
 
 .Panel-Horario {
@@ -137,21 +137,21 @@ h1, h2, h3, h4 {
 }
 
 .Panel-Horario__Container .Header {
-    font-size: 27px;
+    font-size: 1.68em;
     font-weight: 100;
     padding: 2em 0;
     line-height: 50px;
 }
 
 .Panel-Horario__Container .Header span{
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 900;
     margin-left: 10px;
 }
 
 .Panel-Horario__Container .Header a,
 .Panel-Horario__Container .Header a:visited{
-    font-size: 25px;
+    font-size: 1.56rem;
     font-weight: 500;
     margin-left: 10px;
     background: #be0101;
@@ -163,14 +163,15 @@ h1, h2, h3, h4 {
 
 .Panel-Horario__Container .List-card{
     display: grid;
-    grid-template-columns: repeat(auto-fill, 265px);
-    gap: 10px
+    grid-template-columns: repeat(2, 265px);
+    gap: 10px;
+    justify-content: center;
 }
 
 .Panel-Horario__Container .List-card .card{
     border: 4px solid;
     padding: 15px 10px;
-    font-size: 18px;
+    font-size: 1.125em;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -274,4 +275,124 @@ h1, h2, h3, h4 {
     color: white;
     font-size: 1.2em;
     right: 65px;
+}
+
+
+/* Mobile first */
+
+@media only screen and (max-width: 377px){
+  .Container {
+      grid-template: 300px 1fr / 1fr;
+  }
+}
+
+
+@media only screen and (max-width: 1200px)  {
+  body{
+    font-size: 16px;
+  }
+
+  .Container {
+    grid-template: 100vh / 250px 1fr;
+  }
+
+  .Panel-info__item img {
+    height: 630px;
+    padding-left: 15px;
+  }
+
+  .Panel-info__item .buttons {
+    top: -254px;
+    left: 119px;
+  }
+
+  
+  .Panel-info__item .Label {
+    top: -10px;
+    left: 214px;
+    width: 140px;
+  } 
+  
+  .Panel-info__item .Label.girl {
+      top: 15px;
+      left: 220px;
+  }
+ 
+  .Panel-info__item .Label p span{
+    font-size: 1.3em;
+  } 
+ 
+  .Panel-info__item .Label p span.day{
+    font-size: 1.4em;
+  } 
+
+  .Panel-Horario__Container .Header a, 
+  .Panel-Horario__Container .Header a:visited {
+    font-size: 1em;
+  }
+ 
+
+}
+
+@media only screen and (max-width: 1024px)  {
+  body{
+    font-size: 12px;
+  }
+
+  .Container {
+    grid-template: 100vh / 200px 1fr;
+  }
+
+  .Panel-info__item img {
+    height: 550px;
+    padding-left: 15px;
+  }
+
+  .Panel-info__item .buttons {
+    top: -225px;
+    left: 90px;
+  }
+
+  .Panel-info__item .buttons a {
+    font-size: 1.45rem;
+  }
+
+  .Panel-info__item .buttons a span {
+    font-size: 1.9rem;
+  }
+
+  .Panel-info__item .Label {
+    top: -10px;
+    left: 214px;
+    width: 107px;
+  } 
+ 
+  .Panel-info__item .Label p span{
+    font-size: 1.3em;
+  } 
+ 
+  .Panel-info__item .Label p span.day{
+    font-size: 1.4em;
+  } 
+
+  .Panel-Horario__Container .Header a, 
+  .Panel-Horario__Container .Header a:visited {
+    font-size: 1em;
+  }
+
+  .Panel-Horario__Container .Header {
+    line-height: 40px;
+    padding: 1.5em 0;
+  }
+
+  .Panel-Horario__Container .Header span {
+    font-size: 2.3rem;
+    font-weight: 900;
+  }
+
+  .Panel-info__item .Label.girl {
+      top: 22px;
+      left: 194px;
+  }
+
 }

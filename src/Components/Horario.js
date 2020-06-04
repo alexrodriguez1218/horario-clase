@@ -5,7 +5,7 @@ import HeroBoy from "../img/Hero.png";
 import HeroGirl from "../img/HeroGirl.png";
 
 // import icons
-import { MdSettings } from 'react-icons/md'
+import { MdPowerSettingsNew } from 'react-icons/md'
 
 // Importo servicio de datos
 import Data from '../Services/ProcessData'
@@ -43,7 +43,7 @@ function Today({ Action = 'today' }) {
   return (
     <div className="Container">
       <div className='Panel-info'>
-        <button className='ResetApp' onClick={resetApp}><MdSettings size='15px'/> <span>Reiniciar App</span> </button>
+        <button className='ResetApp' onClick={resetApp}><MdPowerSettingsNew size='15px'/> <span>Reiniciar App</span> </button>
         <div className='Panel-info__item'>
           <img src={heroImg} alt='Img en donde ubicare las acciones del app' />
           <Actions view ={Action} />
