@@ -87,9 +87,9 @@
       "name": "Música",
       "teacher": "Andres Fabian Riveros Villabona",
       "color": "#d338e0",
-      "idConnection": "72088299038",
-      "pwdConnection": "primeroa",
-      "linkConnection": "https://us04web.zoom.us/j/72088299038?pwd=SnNidUQ3aDJYeXBneVNIV2xJS3BKQT09"
+      "idConnection": "76631188416",
+      "pwdConnection": "3pi3YK",
+      "linkConnection": "https://us04web.zoom.us/j/76631188416"
     },
     {
       "id": 11,
@@ -181,26 +181,26 @@
       },
       {
         "matterId": 3,
-        "hours": 11,
+        "hours": 19,
         "minutes": 0,
         "jornada": "am"
       }
     ],
     "4": [
       {
-        "matterId": 5,
+        "matterId": 11,
         "hours": 8,
         "minutes": 0,
         "jornada": "am"
       },
       {
-        "matterId": 10,
+        "matterId": 12,
         "hours": 9,
         "minutes": 0,
         "jornada": "am"
       },
       {
-        "matterId": 3,
+        "matterId": 2,
         "hours": 10,
         "minutes": 0,
         "jornada": "am"
@@ -241,5 +241,19 @@
     "Jueves",
     "Viernes",
     "Sábado"
+  ],
+  "months": [
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre"
   ]
 }

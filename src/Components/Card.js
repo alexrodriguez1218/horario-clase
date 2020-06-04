@@ -11,7 +11,7 @@ function Card({ matter, hours, minutes, jornada, teacher, color, idConnection, p
             <h2>{hours.toString().padStart(2, "00")}:{minutes.toString().padStart(2, "00")} {jornada}</h2>
             <h3>{teacher}</h3>
             <div className='Buttons'>
-                <p>Vamos a clase <a href={linkConnection} target='_BLANK' rel="noopener noreferrer"><MdFlightTakeoff size='25px' /></a></p>
+                <p>Vamos a clase {!disabled && (<a href={linkConnection} target='_BLANK' rel="noopener noreferrer"><MdFlightTakeoff size='25px' /></a>)}</p>
                 <p>ID: {idConnection}</p>
                 <p>Clave: {pwdConnection}</p>
             </div>
