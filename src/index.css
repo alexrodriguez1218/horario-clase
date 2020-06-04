@@ -35,6 +35,7 @@ h1, h2, h3, h4 {
   opacity: .5;
   outline: none;
   cursor: pointer;
+  z-index: 5;
 }
 
 
@@ -132,7 +133,9 @@ h1, h2, h3, h4 {
     color: white;
     text-shadow: 1px 1px 1px #000000;
     width: 100%;
-    padding: 0 30px 0 200px;
+    padding: 0 30px 2em 200px;
+        overflow: auto;
+    box-sizing: border-box;
     
 }
 
@@ -278,16 +281,7 @@ h1, h2, h3, h4 {
 }
 
 
-/* Mobile first */
-
-@media only screen and (max-width: 377px){
-  .Container {
-      grid-template: 300px 1fr / 1fr;
-  }
-}
-
-
-@media only screen and (max-width: 1200px)  {
+/* @media only screen and (max-width: 1200px)  {
   body{
     font-size: 16px;
   }
@@ -333,8 +327,8 @@ h1, h2, h3, h4 {
  
 
 }
-
-@media only screen and (max-width: 1024px)  {
+ */
+@media (min-width: 769x) and (max-width: 1024px) {
   body{
     font-size: 12px;
   }
@@ -395,4 +389,204 @@ h1, h2, h3, h4 {
       left: 194px;
   }
 
+} 
+
+@media  (min-width: 321px) and (max-width: 768px)  {
+  body {
+    font-size: 16px;
+  }
+   
+  .Panel-info__item img{
+    position: absolute;
+    top: -290px;
+    height: 550px;
+    padding: 15PX;
+  }
+
+  .Panel-info__item .buttons {
+      top: -230px;
+      left: 90px;
+  }
+
+  .Panel-info__item .buttons a {
+    font-size: 1.45rem;
+  }
+
+  .Panel-info__item .buttons a span {
+    font-size: 1.9rem;
+  }
+
+  .Panel-info__item .Label {
+    top: -25px;
+    left: 214px;
+    width: 107px;
+  } 
+ 
+  .Panel-info__item .Label p span{
+    font-size: 1.3em;
+  } 
+ 
+  .Panel-info__item .Label p span.day{
+    font-size: 1.4em;
+  } 
+
+  .Panel-info__item .Label.girl {
+    top: 136px;
+    left: 194px;
+    width: 123px;
+  }
+
+
+  /* Area de container de info  */
+
+  .Panel-Horario__Container{
+    padding: 2em 3em 2em 4em;
+    height: 100vh;
+
+
+  }
+
+  .Panel-Horario__Container .Header {
+    line-height: 50px;
+    padding: 1.2em 0;
+  }
+
+  .Panel-Horario__Container .Header a, 
+  .Panel-Horario__Container .Header a:visited {
+    font-size: 1em;
+  }
+
+  .Panel-Horario__Container .Header span {
+    font-size: 2.3rem;
+    font-weight: 900;
+  }
+
+  .Panel-Horario__Container .List-card {
+    grid-template-columns: 1fr;
+  }
+
+  .Panel-Horario__Container .List-card .card .Buttons p{
+    font-size: 1em;
+  }
+
+  .modal form .heroBienvenida{
+    height: 250px;
+  }
+
+  .modal form input {
+    top: 30px;
+    right: 4px;
+    padding: 5px 15px;
+    width: 145px;
+    font-size: 1em; 
+  }
+
+  .modal form .gender {
+    bottom: 37px;
+    right: 20px;
+  }
+  
+  .modal form .gender img {
+    height: 50px;
+  }
+} 
+
+@media (min-width: 321px) and (max-width: 360px) {
+  body {
+    font-size: 12px;
+  }
+
+  
+  .Panel-info__item img{
+    position: absolute;
+    top: -145px;
+    height: 460px;
+    padding: 30px 2em;
+  }
+
+   .Panel-info__item .buttons {
+      top: -74px;
+      left: 130px;
+      width: 145px;
+      text-align: left;
+  }
+
+  .Panel-info__item .buttons a {
+    font-size: 1.2rem;
+  }
+
+  .Panel-info__item .buttons a span {
+    font-size: 1.8rem;
+  }
+
+  .Panel-info__item .Label {
+    top: 90px;
+    left: 192px;
+    width: 107px;
+  } 
+ 
+  .Panel-info__item .Label p span{
+    font-size: 1.2em;
+  } 
+ 
+  .Panel-info__item .Label p span.day{
+    font-size: 1.8em;
+  } 
+
+  .Panel-info__item .Label.girl {
+    top: 108px;
+    left: 174px;
+    width: 96px;
+  }
+ 
 }
+
+@media (max-width: 320px) {
+  body {
+    font-size: 12px;
+  }
+  
+  .Panel-info__item img{
+    position: absolute;
+    top: -145px;
+    height: 460px;
+    padding: 30px 2em;
+  }
+
+   .Panel-info__item .buttons {
+      top: -74px;
+      left: 130px;
+      width: 145px;
+      text-align: left;
+  }
+
+  .Panel-info__item .buttons a {
+    font-size: 1rem;
+  }
+
+  .Panel-info__item .buttons a span {
+    font-size: 1.5rem;
+  }
+
+  .Panel-info__item .Label {
+    top: 94px;
+    left: 190px;
+    width: 107px;
+  } 
+ 
+  .Panel-info__item .Label p span{
+    font-size: 1em;
+  } 
+ 
+  .Panel-info__item .Label p span.day{
+    font-size: 1.5em;
+  } 
+
+  .Panel-info__item .Label.girl {
+    top: 108px;
+    left: 174px;
+    width: 96px;
+  }
+ 
+}
+
