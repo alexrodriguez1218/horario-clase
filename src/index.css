@@ -281,7 +281,7 @@ h1, h2, h3, h4 {
 }
 
 
-/* @media only screen and (max-width: 1200px)  {
+@media only screen and (max-width: 1200px)  {
   body{
     font-size: 16px;
   }
@@ -327,7 +327,7 @@ h1, h2, h3, h4 {
  
 
 }
- */
+
 @media (min-width: 769x) and (max-width: 1024px) {
   body{
     font-size: 12px;
@@ -391,20 +391,25 @@ h1, h2, h3, h4 {
 
 } 
 
-@media  (min-width: 321px) and (max-width: 768px)  {
+@media  (max-width: 768px)  {
   body {
     font-size: 16px;
   }
+
+    .Container  {
+      grid-template-columns: 1fr;
+      grid-template-rows: 400px 1fr;
+    }
    
   .Panel-info__item img{
     position: absolute;
-    top: -290px;
+    top: -150px;
     height: 550px;
     padding: 15PX;
   }
 
   .Panel-info__item .buttons {
-      top: -230px;
+      top: -90px;
       left: 90px;
   }
 
@@ -417,7 +422,7 @@ h1, h2, h3, h4 {
   }
 
   .Panel-info__item .Label {
-    top: -25px;
+    top: 110px;
     left: 214px;
     width: 107px;
   } 
@@ -489,6 +494,12 @@ h1, h2, h3, h4 {
   .modal form .gender img {
     height: 50px;
   }
+
+   .Panel-Horario__Container {
+    padding: 15em 3em 2em;
+    overflow: unset;
+    height: unset;
+  }
 } 
 
 @media (min-width: 321px) and (max-width: 360px) {
@@ -496,6 +507,10 @@ h1, h2, h3, h4 {
     font-size: 12px;
   }
 
+    .Container  {
+    grid-template-columns: 1fr;
+    grid-template-rows: 400px 1fr;
+  }
   
   .Panel-info__item img{
     position: absolute;
@@ -538,12 +553,23 @@ h1, h2, h3, h4 {
     left: 174px;
     width: 96px;
   }
+
+  .Panel-Horario__Container {
+    padding: 15em 3em 2em;
+    overflow: unset;
+    height: unset;
+  }
  
 }
 
 @media (max-width: 320px) {
   body {
     font-size: 12px;
+  }
+  
+  .Container  {
+    grid-template-columns: 1fr;
+    grid-template-rows: 400px 1fr;
   }
   
   .Panel-info__item img{
@@ -586,6 +612,12 @@ h1, h2, h3, h4 {
     top: 108px;
     left: 174px;
     width: 96px;
+  }
+
+  .Panel-Horario__Container {
+    padding: 15em 3em 2em;
+    overflow: unset;
+    height: unset;
   }
  
 }
