@@ -4,8 +4,6 @@ import React from 'react'
 import { MdFlightTakeoff } from 'react-icons/md'
 
 export default function AdClass({ label, notClasses, matter, day, view, link }) {
-    console.log(link);
-    
     switch (view) {
         case 'tomorrow':
             label = 'Estas son tus clases de mañana'

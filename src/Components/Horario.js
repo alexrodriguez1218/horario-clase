@@ -20,14 +20,15 @@ function Today({ Action = 'today' }) {
   // init estado
   const [name, setName] = useState(window.localStorage.getItem('name') || null)
   const [gender, setGender] = useState(window.localStorage.getItem('gender') || null)
-  
+  const [data, setData] = useState(Data(Action))
 
-  var data = Data(Action)
+  // var data = Data(Action)
 
 
   if (Action === 'today') {
     setInterval(() => {
-      data = Data(Action)
+      setData(Data(Action))
+      console.log(data)
     }, 60000)
   } 
 
