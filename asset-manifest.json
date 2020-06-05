@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/horario-clase/static/css/main.421e8409.chunk.css",
-    "main.js": "/horario-clase/static/js/main.24b4b390.chunk.js",
-    "main.js.map": "/horario-clase/static/js/main.24b4b390.chunk.js.map",
+    "main.js": "/horario-clase/static/js/main.41c4ed5a.chunk.js",
+    "main.js.map": "/horario-clase/static/js/main.41c4ed5a.chunk.js.map",
     "runtime-main.js": "/horario-clase/static/js/runtime-main.fed76e69.js",
     "runtime-main.js.map": "/horario-clase/static/js/runtime-main.fed76e69.js.map",
     "static/js/2.8f53ec36.chunk.js": "/horario-clase/static/js/2.8f53ec36.chunk.js",
     "static/js/2.8f53ec36.chunk.js.map": "/horario-clase/static/js/2.8f53ec36.chunk.js.map",
     "index.html": "/horario-clase/index.html",
-    "precache-manifest.49add0f9df7f55fb7aab62324b23c987.js": "/horario-clase/precache-manifest.49add0f9df7f55fb7aab62324b23c987.js",
+    "precache-manifest.d90ba2701aa1446d8193308172220823.js": "/horario-clase/precache-manifest.d90ba2701aa1446d8193308172220823.js",
     "service-worker.js": "/horario-clase/service-worker.js",
     "static/css/main.421e8409.chunk.css.map": "/horario-clase/static/css/main.421e8409.chunk.css.map",
     "static/js/2.8f53ec36.chunk.js.LICENSE.txt": "/horario-clase/static/js/2.8f53ec36.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.fed76e69.js",
     "static/js/2.8f53ec36.chunk.js",
     "static/css/main.421e8409.chunk.css",
-    "static/js/main.24b4b390.chunk.js"
+    "static/js/main.41c4ed5a.chunk.js"
   ]
 }
