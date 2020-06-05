@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/horario-clase/static/css/main.4c66a998.chunk.css",
+    "main.css": "/horario-clase/static/css/main.421e8409.chunk.css",
     "main.js": "/horario-clase/static/js/main.24b4b390.chunk.js",
     "main.js.map": "/horario-clase/static/js/main.24b4b390.chunk.js.map",
     "runtime-main.js": "/horario-clase/static/js/runtime-main.fed76e69.js",
@@ -8,9 +8,9 @@
     "static/js/2.8f53ec36.chunk.js": "/horario-clase/static/js/2.8f53ec36.chunk.js",
     "static/js/2.8f53ec36.chunk.js.map": "/horario-clase/static/js/2.8f53ec36.chunk.js.map",
     "index.html": "/horario-clase/index.html",
-    "precache-manifest.ee5f071f287e77198ea756d76fbd2f0a.js": "/horario-clase/precache-manifest.ee5f071f287e77198ea756d76fbd2f0a.js",
+    "precache-manifest.49add0f9df7f55fb7aab62324b23c987.js": "/horario-clase/precache-manifest.49add0f9df7f55fb7aab62324b23c987.js",
     "service-worker.js": "/horario-clase/service-worker.js",
-    "static/css/main.4c66a998.chunk.css.map": "/horario-clase/static/css/main.4c66a998.chunk.css.map",
+    "static/css/main.421e8409.chunk.css.map": "/horario-clase/static/css/main.421e8409.chunk.css.map",
     "static/js/2.8f53ec36.chunk.js.LICENSE.txt": "/horario-clase/static/js/2.8f53ec36.chunk.js.LICENSE.txt",
     "static/media/Bienvenida.png": "/horario-clase/static/media/Bienvenida.b5f94c0e.png",
     "static/media/BoyPlaying.png": "/horario-clase/static/media/BoyPlaying.8e7195b4.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.fed76e69.js",
     "static/js/2.8f53ec36.chunk.js",
-    "static/css/main.4c66a998.chunk.css",
+    "static/css/main.421e8409.chunk.css",
     "static/js/main.24b4b390.chunk.js"
   ]
 }
