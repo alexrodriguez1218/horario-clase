@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edde2e924a150cd1d04c2d52d6955c27",
+    "revision": "b75107dbc181f8484c3c1322c012f2cf",
     "url": "/horario-clase/index.html"
   },
   {
-    "revision": "caf9bae4a9a2d3b8626a",
+    "revision": "446a51d5aa12314e4f59",
     "url": "/horario-clase/static/css/main.421e8409.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/horario-clase/static/js/2.8f53ec36.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "caf9bae4a9a2d3b8626a",
-    "url": "/horario-clase/static/js/main.41c4ed5a.chunk.js"
+    "revision": "446a51d5aa12314e4f59",
+    "url": "/horario-clase/static/js/main.120e11b5.chunk.js"
   },
   {
     "revision": "919e19a8a4a5b0fcfb2b",
